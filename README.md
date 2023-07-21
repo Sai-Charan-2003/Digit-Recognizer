@@ -1,4 +1,4 @@
-# Digit-Recognizer
+# Digit Recognizer
 This notebook is trained to classify the images of the digits that are handwritten using ML techniques.
 ## MNIST database
 MNIST database (stands for Modified National Institute of Standards and Technology) consists of large no. of handwritten digit images which can be used to train a model for classifying the digits.
